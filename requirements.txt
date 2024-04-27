@@ -1,0 +1,4 @@
+h5py
+deepface
+opencv-python
+picamera2
